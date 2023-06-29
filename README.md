@@ -6,4 +6,4 @@ studyiong computer science in kntu university
 
 just a beginner
 
-.py 
+.py .html .css 
