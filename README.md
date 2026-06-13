@@ -1,3 +1,3 @@
 nariman_vt
 
-studying CS at KNTU
+CS Graduate
