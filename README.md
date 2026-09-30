@@ -29,13 +29,6 @@ What drives me isn't just writing code — it's the moment a complex system clic
 
 ---
 
-## 🚀 What I'm Up To Right Now
-
-- 🌱 **Learning** the Spring Framework hands-on — no shortcuts
-- 🔨 **Building** my own web project from the ground up
-- 💼 **Actively seeking** my first backend developer role
-
----
 
 ## 💡 What Makes Me Tick
 
