@@ -1,6 +1,6 @@
 # Hi, I'm Nariman 👋
 
-### Junior Backend Developer · Problem Solver · Team Leader
+### Junior Backend Developer · Problem Solver · Software Architect Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nariman%20Vatankhah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nariman-vatankhah-1a09a5176)
 
